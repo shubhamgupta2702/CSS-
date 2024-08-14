@@ -1,0 +1,29 @@
+*{   /* Universal Selector */
+    margin: 0;
+
+}
+/* html{
+    background: url(https://images.pexels.com/photos/18148937/pexels-photo-18148937/free-photo-of-vintage-tram-on-a-street.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat center fixed ;
+    background-size: cover;
+} */
+ body{
+    background-color: cadetblue;
+ }
+h1{
+    color:#07471c ;
+    background-color:burlywood;
+    text-align: center;
+    padding: 20px;
+    text-decoration: underline;
+    border: 2px solid red;
+}
+span{
+    font-size: 50px;
+    color: #fff;
+    background-color: violet;
+    display: block;
+}
+p{
+    background-color: tomato;
+    display: inline;
+}
