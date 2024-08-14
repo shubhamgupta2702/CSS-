@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    background-color: blueviolet;
+}
+.bg-orange{
+    background-color: violet;
+}
+#bg-green{
+    background-color: tomato;
+}
